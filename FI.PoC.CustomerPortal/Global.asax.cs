@@ -11,6 +11,7 @@ namespace FI.PoC.CustomerPortal
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+
         }
     }
 }
