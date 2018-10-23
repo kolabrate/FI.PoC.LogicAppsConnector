@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FI.PoC.LogicAppsConnector",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FI.PoC.LogicAppsConnector.Tests", "FI.PoC.LogicAppsConnector.Tests\FI.PoC.LogicAppsConnector.Tests.csproj", "{F8145E26-4C76-4959-A0BB-72D6B8628179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FI.PoC.CustomerPortal", "FI.PoC.CustomerPortal\FI.PoC.CustomerPortal.csproj", "{306B7F20-6DE2-46C6-BB82-C8AC88E7E6B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F8145E26-4C76-4959-A0BB-72D6B8628179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8145E26-4C76-4959-A0BB-72D6B8628179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8145E26-4C76-4959-A0BB-72D6B8628179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306B7F20-6DE2-46C6-BB82-C8AC88E7E6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306B7F20-6DE2-46C6-BB82-C8AC88E7E6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306B7F20-6DE2-46C6-BB82-C8AC88E7E6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306B7F20-6DE2-46C6-BB82-C8AC88E7E6B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
