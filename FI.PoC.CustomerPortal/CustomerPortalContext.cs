@@ -15,6 +15,7 @@ namespace FI.PoC.CustomerPortal
         public CustomerPortalContext()
             : base("name=CustomerPortalContext")
         {
+
         }
 
         // Add a DbSet for each entity type that you want to include in your model. For more information 
